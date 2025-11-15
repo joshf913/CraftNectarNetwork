@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "e759333cb2aedad847958c0f00f3864df1ce4f607f12a49303fb1151cec8d526"
+
+[[files]]
 file = "mods/better-combat.pw.toml"
 hash = "66a784c8c78c18a37fd55cbaeb4d49de609647acc1ca8e47976808a02dab3d15"
 metafile = true
@@ -108,4 +112,9 @@ metafile = true
 [[files]]
 file = "mods/sound.pw.toml"
 hash = "9d4ee074e0a24d53456a1f3e57f2d89d97e37ce378c575c4f15c3dbeb7f137fb"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "64eaf7478e42d5143f4feeee87c56f779f4c3523f9fb06d8342484d36aa4442b"
 metafile = true
