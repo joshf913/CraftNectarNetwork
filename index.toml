@@ -285,11 +285,6 @@ hash = "5113f78787651e11f104807a95760c4af97288c3602ca11d65205387a0886519"
 metafile = true
 
 [[files]]
-file = "mods/lithostitched.pw.toml"
-hash = "f8edc1d5fadb1b65f8f869893ec637ec8a5e5f92fb0a7f140e9e62977668f895"
-metafile = true
-
-[[files]]
 file = "mods/lootr.pw.toml"
 hash = "28cd260c71c34d01f59ea210af1031e94d98b4d6bd72d5a153955ce754c9a76f"
 metafile = true
