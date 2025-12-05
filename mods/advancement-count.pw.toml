@@ -1,0 +1,13 @@
+name = "Advancement Count"
+filename = "advancement-count-v2.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2tEdxXOF/versions/pQZBzhST/advancement-count-v2.0.0.jar"
+hash-format = "sha512"
+hash = "5aed8df7cecf152e9a0be09f592e0cf7504cde4290336087ae2d52e492c4f8eb60d408a2ac86d9a79449de4ce4d1af5e2436b4fdfb356aace52be1c61bbfaf01"
+
+[update]
+[update.modrinth]
+mod-id = "2tEdxXOF"
+version = "pQZBzhST"
