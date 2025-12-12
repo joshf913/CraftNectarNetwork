@@ -50,6 +50,11 @@ hash = "9b1610cd28c49d34ce2fd760d208fb569f0e20055fee4c81ed4da6489b340312"
 metafile = true
 
 [[files]]
+file = "mods/bossesrise.pw.toml"
+hash = "c5091ca6207647d585bd9e0c3e1a6d517b3f0f5a24aa9406a3462a9326e789f1"
+metafile = true
+
+[[files]]
 file = "mods/carry-on.pw.toml"
 hash = "8fde54624913d86f1176cd1086fa485f1a872573dac144347c57cab76596b715"
 metafile = true
@@ -272,6 +277,11 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "f67aa60c765593a8c70f78296a460349c6aef5f4a16d173eae02e8803b545ad4"
+metafile = true
+
+[[files]]
+file = "mods/itemclearlag.pw.toml"
+hash = "b6b28c34e2f15e474fe3cd77cc69409ee217823936c262f1fbba668f247e2b4f"
 metafile = true
 
 [[files]]
