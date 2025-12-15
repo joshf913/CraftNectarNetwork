@@ -40,11 +40,6 @@ hash = "93c4acd165a291c6d1e69c27b05b2747afc926b38a414712263fbc95f42da323"
 metafile = true
 
 [[files]]
-file = "mods/better-combat.pw.toml"
-hash = "c403af9a860ca7248b0a8944629f2a4444d5f51fc610718f06418d5c9b19ebdc"
-metafile = true
-
-[[files]]
 file = "mods/biomes-o-plenty.pw.toml"
 hash = "9b1610cd28c49d34ce2fd760d208fb569f0e20055fee4c81ed4da6489b340312"
 metafile = true
@@ -207,6 +202,11 @@ metafile = true
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
 hash = "c67d73440c55cc47a47ac8987da9cd01de3ad2a8f1480a304355c3e21092d2e4"
+metafile = true
+
+[[files]]
+file = "mods/epic-fight.pw.toml"
+hash = "3b98b8cec1ffb640a7b1c644b7ed670e7b101e951699e69ace608837c7a53216"
 metafile = true
 
 [[files]]
