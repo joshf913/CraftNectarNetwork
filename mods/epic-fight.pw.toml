@@ -1,13 +1,13 @@
 name = "Epic Fight"
-filename = "epicfight-21.14.3-mc1.21.1-neoforge.jar"
+filename = "epicfight-21.14.4-mc1.21.1-neoforge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/vu3NZ5Ma/versions/dpTnEIa6/epicfight-21.14.3-mc1.21.1-neoforge.jar"
+url = "https://cdn.modrinth.com/data/vu3NZ5Ma/versions/b0CMn91B/epicfight-21.14.4-mc1.21.1-neoforge.jar"
 hash-format = "sha512"
-hash = "41f22c5c6367c9f623aab0b90aa274ca777c1a8e311fed06c3254982ae58ed4b2831c2035620991e7126a241c7e40292f6739db303707eddc12e8c11da28e6d1"
+hash = "a1857d61acb751bcfa0bc6e2a8b1f3f5ef32f40c50fe4161c70115439265f683ecacbc90e917ba91c356b85f29999aa8866eecdf555925b1c8253df93943d44b"
 
 [update]
 [update.modrinth]
 mod-id = "vu3NZ5Ma"
-version = "dpTnEIa6"
+version = "b0CMn91B"
