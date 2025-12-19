@@ -360,6 +360,11 @@ hash = "09ba6db54e6f13fafa1e12a9adcd83db9137617d631288579f520ab11b4bfe9a"
 metafile = true
 
 [[files]]
+file = "mods/numismatic-overhaul-reforged-again.pw.toml"
+hash = "756b1fc9d636917c02faae085679cdcbda6e4337d6ae269674dc876fe2ec9ab2"
+metafile = true
+
+[[files]]
 file = "mods/opac-bettercommands.pw.toml"
 hash = "f56081427335f96ac7e83f479cd57f57ca2d7a28b43187599c60cd3b104d4c54"
 metafile = true
@@ -367,6 +372,11 @@ metafile = true
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
 hash = "9d4e4bd1007b5529b2b35439d00d74f0554f2bd8ae0d4d72aeab9d8063c60beb"
+metafile = true
+
+[[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "46831c04077a06df823bcd0f254833a90a9a9ccc78f5069f4b4c27fa301ac0cf"
 metafile = true
 
 [[files]]
