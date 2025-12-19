@@ -5,10 +5,6 @@ file = "README.md"
 hash = "e759333cb2aedad847958c0f00f3864df1ce4f607f12a49303fb1151cec8d526"
 
 [[files]]
-file = "index.toml.old"
-hash = "0c3b61d605593699bca5b677588d4fb988354e448b33e9b2c64676f1134b9b3a"
-
-[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "7b5fba1b2499c191160be6b1b01c54ace077ae7d3c5228ae4af4d360e3d0a336"
 metafile = true
