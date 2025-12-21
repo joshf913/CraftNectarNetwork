@@ -1,0 +1,13 @@
+name = "3D Hands"
+filename = "3d-hands-1.0.0-mod.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/OORXn0mW/versions/zMLyY4xe/3d-hands-1.0.0-mod.jar"
+hash-format = "sha512"
+hash = "2a0bfc232b98c91227c79b4744697b3f5a479dc8503a2dcbb631bbbc45fcc40581abf83db613ffaa4387eda131847f4020237f162d7bffa2c9fb8081f5eb90c1"
+
+[update]
+[update.modrinth]
+mod-id = "OORXn0mW"
+version = "zMLyY4xe"

@@ -1,0 +1,13 @@
+name = "Dive in"
+filename = "divein-0.1.14-1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/m0RMHIS6/versions/BKUQLHXm/divein-0.1.14-1.21.1-neoforge.jar"
+hash-format = "sha512"
+hash = "1133db804f417129254c1420d61c07fcaa915262dc16b1a29f5259fa4e7d9b5f1565adfa21f70943bedf6902fcebbbd52927a14dc21fa09dc9a81c5f81774e15"
+
+[update]
+[update.modrinth]
+mod-id = "m0RMHIS6"
+version = "BKUQLHXm"

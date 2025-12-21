@@ -1,0 +1,13 @@
+name = "Better Falling"
+filename = "better_falling-2.2.0-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/OOe8spQX/versions/5mqzZwNh/better_falling-2.2.0-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "bafc25d0f45132670610ea8485bd3fd40906b4702ac61789fed9c64601dab9cc505a0e76e8738cb555cecc5e641d95ffe108e64759eae80bf2fb21317d9856e4"
+
+[update]
+[update.modrinth]
+mod-id = "OOe8spQX"
+version = "5mqzZwNh"

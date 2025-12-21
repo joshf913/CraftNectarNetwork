@@ -14,6 +14,11 @@ hash = "47d32eec023f9d00f16bd5fba49778ad622dca453ec2306e8d1af2daf625b51f"
 metafile = true
 
 [[files]]
+file = "mods/a-good-place.pw.toml"
+hash = "eedd5d5664cc71eeabc14145564a6012f0bbbca31581ff23c09e226217102f8b"
+metafile = true
+
+[[files]]
 file = "mods/advancement-count.pw.toml"
 hash = "28a682383e4034ccf3678bf0679889ef441728b4dd1ad1acaed8821237371e1d"
 metafile = true
@@ -46,6 +51,11 @@ metafile = true
 [[files]]
 file = "mods/better-advancements.pw.toml"
 hash = "93c4acd165a291c6d1e69c27b05b2747afc926b38a414712263fbc95f42da323"
+metafile = true
+
+[[files]]
+file = "mods/better-falling.pw.toml"
+hash = "5bf59320651d555b9a57de940899dda87b2de6befb7b6258293c854f0a7a25de"
 metafile = true
 
 [[files]]
@@ -194,6 +204,11 @@ hash = "4c16ee75d3b04443e96d854eec79344293963e9f4beaaf8e7215023e8ef53b88"
 metafile = true
 
 [[files]]
+file = "mods/dive-in.pw.toml"
+hash = "8723d56f6966e8fa4f71d3309df4c26b33eda2e81c5714df8c0e7605da50cc05"
+metafile = true
+
+[[files]]
 file = "mods/dynamiccrosshair.pw.toml"
 hash = "0603752f5a3db14a380597c84cdb80c3b66564a69d8c7f5c4f1d35c4f2a32924"
 metafile = true
@@ -221,11 +236,6 @@ metafile = true
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
 hash = "c67d73440c55cc47a47ac8987da9cd01de3ad2a8f1480a304355c3e21092d2e4"
-metafile = true
-
-[[files]]
-file = "mods/epic-fight.pw.toml"
-hash = "0ea8d09e7659d0a3a7e5b0029a41f09436e912c9be7c56e242621c7b1bb6f60a"
 metafile = true
 
 [[files]]
@@ -264,6 +274,11 @@ hash = "cbcaf4a18e45757f17d4a4f36469f879ae024a9fe58b8129d8a42d0faaeada22"
 metafile = true
 
 [[files]]
+file = "mods/fragmentum.pw.toml"
+hash = "18d6981729cf41236726e09dec2e5db437a25e525f0a6160fa7e55befd7669ca"
+metafile = true
+
+[[files]]
 file = "mods/friends-and-foes-forge.pw.toml"
 hash = "fe1fafb878b5dafbc23443447f3121971481e4aa98865c5ecf010df2bb7bd2da"
 metafile = true
@@ -286,6 +301,11 @@ metafile = true
 [[files]]
 file = "mods/glitchcore.pw.toml"
 hash = "dbd756dd9bb17e6ecebcf2d7052a67a2da1c7dd378bc2089bc154916080fe031"
+metafile = true
+
+[[files]]
+file = "mods/hands-3d.pw.toml"
+hash = "babe4885b453145da545c74f8d3f5a4e1a15aafc77e7b97d56abaed713966472"
 metafile = true
 
 [[files]]
@@ -359,6 +379,11 @@ hash = "e8c20c0c77e5df58d1386d8190ee16a957d78d62d361469db0b0c29458bf1e84"
 metafile = true
 
 [[files]]
+file = "mods/leaves-be-gone.pw.toml"
+hash = "3f907a8532b4ca98390055ca0cb1bbd87e8ebcd44be6afe9b69280859ff37035"
+metafile = true
+
+[[files]]
 file = "mods/lithostitched.pw.toml"
 hash = "a14ce90c0dca8c48481e27761612a20a3197f942c7b32f39470e5f9de97e356b"
 metafile = true
@@ -406,6 +431,11 @@ metafile = true
 [[files]]
 file = "mods/numismatics.pw.toml"
 hash = "9ffaf9a44c00156d1e613884271c8224db4cbf019e5d032d5b444bdba983122f"
+metafile = true
+
+[[files]]
+file = "mods/obscure-tooltips.pw.toml"
+hash = "e59b9fe0cc9c1ef31a583f64eaf27738e2fe6b7dfcd0160615a9958b7159012e"
 metafile = true
 
 [[files]]
