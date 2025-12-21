@@ -1,0 +1,13 @@
+name = "Sophisticated Sorter"
+filename = "sophisticatedsorter-1.0.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2LPywrDb/versions/HKN3Ckzk/sophisticatedsorter-1.0.6.jar"
+hash-format = "sha512"
+hash = "cefceaa771854563871ab0bfbc97855f9f24a1bf229b43df9035b6d7b5cbb92ace016ae6a56a8dee9c8cc688081424500edaf46cc5ad93a3bc1656dda24ef95f"
+
+[update]
+[update.modrinth]
+mod-id = "2LPywrDb"
+version = "HKN3Ckzk"
