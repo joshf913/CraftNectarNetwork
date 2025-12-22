@@ -60,11 +60,6 @@ hash = "9b1610cd28c49d34ce2fd760d208fb569f0e20055fee4c81ed4da6489b340312"
 metafile = true
 
 [[files]]
-file = "mods/bluemap-offline-player-markers-forge.pw.toml"
-hash = "f0261305c1c4a79014d4148562416a8da47ed70f8d0f8ebed5d1cc0c98eeebc2"
-metafile = true
-
-[[files]]
 file = "mods/bossesrise.pw.toml"
 hash = "c5091ca6207647d585bd9e0c3e1a6d517b3f0f5a24aa9406a3462a9326e789f1"
 metafile = true
