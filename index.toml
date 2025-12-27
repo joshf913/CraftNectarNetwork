@@ -400,6 +400,11 @@ hash = "238eafec0c25da72e31cefe7723d08c1be7511d23d2f33457f8874ef97b77bef"
 metafile = true
 
 [[files]]
+file = "mods/macaws-furniture.pw.toml"
+hash = "52019f01292cb860fa135485f941fff42f97910267bf122f2f797e31109bb93f"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "eae3c14c915400de36bf547550f630de727bbf48ae0ce719b99b2ff50ceaab0d"
 metafile = true
@@ -592,11 +597,6 @@ metafile = true
 [[files]]
 file = "mods/tool-trims.pw.toml"
 hash = "79d04d954184defd602ce8e5258a1179b45664729d727d5d53e2c1693f05dd00"
-metafile = true
-
-[[files]]
-file = "mods/unusual-furniture.pw.toml"
-hash = "2441abf8ae001e8f2ddede167b559fd9ab1a402618ad95d22f4f9d1b2fdcef14"
 metafile = true
 
 [[files]]
