@@ -11,3 +11,8 @@ hash = "bff82f778fc42a88a4b5d98759498ad85f086b23527e51f5c4c717a2fe9d1bcfa583f38a
 [update.modrinth]
 mod-id = "9wv7LuMc"
 version = "wtmSnIFo"
+
+[option]
+optional = true
+default = true
+description = "Adds extra animations to ui elements."
