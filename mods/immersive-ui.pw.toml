@@ -14,5 +14,5 @@ version = "wtmSnIFo"
 
 [option]
 optional = true
-default = true
 description = "Adds extra animations to ui elements."
+default = true

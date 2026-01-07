@@ -3,8 +3,8 @@ filename = "FastFurnace-1.21.1-9.0.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "acdcdc7c61b49b3b04490fce9843dcf8b531dfc3"
+hash-format = "sha512"
+hash = "cee7e5d0394abfc7cf5d50a938302746ddc0ce981f4553f9b9e5374233a3f74ecacead81cfb25e0d98d17d1f5d7ae49e80736236ac8dabb04f84db2d2ccb2760"
 mode = "metadata:curseforge"
 
 [update]

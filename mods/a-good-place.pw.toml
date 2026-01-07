@@ -14,5 +14,5 @@ version = "vERjAa36"
 
 [option]
 optional = true
-default = true
 description = "Adds a silly little placement animation."
+default = true
