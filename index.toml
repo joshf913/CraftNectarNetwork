@@ -293,16 +293,6 @@ hash = "4f7c443c70a28284bfb40e613c835167c9c71f2db257714275041f16e280b6d9"
 metafile = true
 
 [[files]]
-file = "CraftNectarNetwork/mods/fastsuite.pw.toml"
-hash = "c3b0a110f11f64466cb233d2c06a7ab449f8f00165c87e468fcaee659a0eadc9"
-metafile = true
-
-[[files]]
-file = "CraftNectarNetwork/mods/fastworkbench.pw.toml"
-hash = "0d13e70b59a7f4623237f6b03e22368235d123030f36f18312fd20a8f7d2e459"
-metafile = true
-
-[[files]]
 file = "CraftNectarNetwork/mods/ferrite-core.pw.toml"
 hash = "05d96d5b17399f048469ff4b44451eb8d99cc7a2a075ff55718c397cb508b0c2"
 metafile = true
