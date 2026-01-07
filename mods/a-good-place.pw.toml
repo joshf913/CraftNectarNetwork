@@ -11,3 +11,8 @@ hash = "71fe9ea59494ddc299a3d7715ad7bff196e07a5f4eba047e749597eb761240e237be1707
 [update.modrinth]
 mod-id = "BwPeriwJ"
 version = "vERjAa36"
+
+[option]
+optional = true
+default = true
+description = "Adds a silly little placement animation."
